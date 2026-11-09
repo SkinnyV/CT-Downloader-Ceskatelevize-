@@ -28,7 +28,4 @@ Built with Python and a graphical interface, it brings together stream detection
 
 CT Downloader is developed with a focus on media preservation, convenience, and reducing the technical complexity of archiving online television content.
 
-The application is intended for content that users are authorized to download. DRM-protected content may require additional authorization and is not guaranteed to be supported.
-
-**Version:** 20  
-**Platform:** Windows 10 / Windows 11
+The application is intended for content that users are authorized to download. DRM-protected content requires users to extract and provide their own key pair for the specific video they wish to download. Support for DRM-protected content is not guaranteed. Several browser extensions are available to help facilitate the key extraction process.
