@@ -15,6 +15,8 @@ Built with Python and a graphical interface, it brings together stream detection
 - **Thumbnail and metadata integration:** Adds available metadata and artwork to the resulting media files.
 - **Dependency management:** Built-in tools for installing and updating required components, including yt-dlp and FFmpeg.
 - **Detailed logging:** Provides download progress and diagnostic information.
+- **Encrypted DASH download and automatic decryption using mp4decrypt. This workflow still requires keys supplied by the user;
+  the app does not retrieve Widevine license keys. Several browser extensions are available to help facilitate the key extraction process.
 
 ### Technology
 
