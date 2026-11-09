@@ -1,6 +1,3 @@
-# CT-Downloader-Ceskatelevize-
-A Windows GUI downloader for Czech Television (ČT) iVysílání, featuring automated stream detection, metadata extraction, subtitle handling, and FFmpeg-based media processing.
-
 # CT Downloader
 
 **CT Downloader** is a Windows desktop application designed to simplify downloading and archiving content from Czech Television's online streaming platform, [ČT iVysílání](https://www.ceskatelevize.cz/ivysilani/).
